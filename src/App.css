@@ -1,0 +1,9 @@
+body {
+  background-color: #a161073b;
+  background-image: url("public/images/map-dots.png");
+}
+
+.btn-order-el {
+  grid-column: 1 / -1;
+  text-align: -webkit-right;
+}
